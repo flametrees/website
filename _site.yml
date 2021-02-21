@@ -1,0 +1,6 @@
+name: "flametrees"
+title: "Flame Trees Limited | Research and Analytics"
+base_url: https://www.flametrees.co.nz
+google_analytics: "G-H304BHMGK3"
+output_dir: "docs"
+output: distill::distill_article

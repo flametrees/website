@@ -1,0 +1,31 @@
+---
+title: "Flame Trees Limited"
+image: "4092269790_fe6a8acfb8_o_square.png"
+links:
+  - label: Homepage
+    url: "index.html"
+  - label: About us
+    url: "about.html"
+  - label: Email
+    url: "mailto:info@flametrees.co.nz"
+output:
+  postcards::trestles
+---
+
+## About us
+
+<br />
+
+#### Clara Pau
+
+**Clara** is an applied social researcher from Central Otago. She works closely with Athletics NZ, Canoe Racing NZ, and Netball NZ and has a focus on information gathering in high performance athlete development across NSOs. To high performance sport, she has brought experience in working with communities to undertake culturally competent research, coupling this with effective information gathering techniques that produce meaningful outcomes for communities without compromising cultural safety.
+
+She has spent time in New Orleans, Louisiana, as part of a Fulbright Graduate Award where she worked on projects concerning political views and voting patterns in Louisiana state, and representation on local boards. She is currently learning te reo Māori and full-stack web development, and enjoys music, NFL, and  the outdoors.
+
+*****
+
+#### Dr Jacquie Tran
+
+**Jacquie** is a sport scientist and researcher from Melbourne, Australia. Her major areas of interest include: physical preparation and recovery practices for elite athlete and team performance, applying data science techniques to investigate technical and tactical performance in team sport, and organisational learning and mastery practices in performance-focused settings.
+
+Throughout her career to date, she has provided research leadership and / or direct scientific support to elite athletes, coaches, and support staff in NZ sport (including Rowing NZ, Snow Sports NZ, Hockey NZ, Surf Life Saving NZ, NZ Olympic Committee, and Paralympics NZ) and Australian sport (Australian Institute of Sport, Rowing Australia, Geelong Cats Football Club (Australian Football League), Victorian Institute of Sport). Outside of sport, Jacquie enjoys baking, playing video games, and exploring New Zealand.

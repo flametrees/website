@@ -1,0 +1,28 @@
+---
+title: "Flame Trees Limited"
+image: "4092269790_fe6a8acfb8_o_square.png"
+links:
+  - label: Homepage
+    url: "index.html"
+  - label: About us
+    url: "about.html"
+  - label: Email
+    url: "mailto:info@flametrees.co.nz"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Research and Analytics Consultants
+
+<br />
+
+We support the learning of New Zealand’s high performance programmes by gathering insights from athletes, coaches, support staff, and performance programme leaders to explore and understand the key aspects of preparation that underpin successful and sustainable pinnacle event performances and programmes.
+
+We have expertise in gathering information, managing it with care, and transforming information into useful insights in sporting contexts.
+
+Get in touch with us: [**info@flametrees.co.nz**](mailto:info@flametrees.co.nz)
+
+<br />
+
+<small>Image credit: <a href="https://www.flickr.com/photos/26085795@N02/4092269790/" target="_blank">Jan Smith</a></small>
