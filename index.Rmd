@@ -13,13 +13,9 @@ output:
 site: distill::distill_website
 ---
  
-## Research and Analytics Consultants
+At Flame Trees, we provide **research and advisory services** to maximise organisational learning and inform the design and implementation of strategy.
 
-<br />
-
-We support the learning of New Zealand’s high performance programmes by gathering insights from athletes, coaches, support staff, and performance programme leaders to explore and understand the key aspects of preparation that underpin successful and sustainable pinnacle event performances and programmes.
-
-We have expertise in gathering information, managing it with care, and transforming information into useful insights in sporting contexts.
+We have expertise in gathering information, managing it with care, and transforming information into useful insights, especially in sporting and community contexts.
 
 Get in touch with us: [**info@flametrees.co.nz**](mailto:info@flametrees.co.nz)
 
