@@ -1,0 +1,33 @@
+---
+title: "Flame Trees Limited"
+image: "4092269790_fe6a8acfb8_o_square.png"
+links:
+  - label: Homepage
+    url: "index.html"
+  - label: About us
+    url: "about.html"
+  - label: Email
+    url: "mailto:info@flametrees.co.nz"
+output:
+  postcards::trestles
+---
+
+## Privacy statement
+
+We collect your personal information in order to conduct research and consulting activities that we have been contracted to carry out by third parties.
+
+If you access any of our services (e.g., as a client engaging us to carry out research and consulting services, as a participant in research surveys / interviews / focus groups), we will collect some or all of the following personal information:
+
+- Your name and contact information
+- Your address or region
+- Your correspondence with Flame Trees Limited staff
+- Demographic information such as date of birth, age, gender, and ethnicity
+- Survey results and responses, when you participate in any of our surveys
+- Interview and focus group recordings and transcripts, when you participate in any of our interviews and / or focus groups
+- Any other information you choose to provide us.
+
+We may also collect personal information from third parties where it is necessary for us to carry out the research and consulting services we have been contracted to complete.
+
+We keep your information safe by storing it in encrypted files on cloud servers and only allowing certain staff to access it. We keep your information for 6 years after completing the work for which the information was collected, at which point we securely destroy it by securely erasing all digital copies.
+
+You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at [info@flametrees.co.nz](mailto:info@flametrees.co.nz).
