@@ -1,0 +1,78 @@
+---
+title: "Flame Trees Limited"
+image: "4092269790_fe6a8acfb8_o_square.png"
+links:
+  - label: Homepage
+    url: "index.html"
+  - label: About us
+    url: "about.html"
+  - label: Email
+    url: "mailto:info@flametrees.co.nz"
+output:
+  postcards::trestles
+---
+
+## “Learning from ex-participants of Auckland club rugby” Survey 2021 Competition
+
+### Terms and Conditions
+
+Instructions on how to enter this competition form part of the conditions of entry. By participating, entrants agree to be bound by these terms and conditions and thereby accept these terms and conditions. Entrants must supply full contact details as required and comply with all rules to be eligible for the prize. This competition is in no way sponsored, endorsed or administered by, or associated with or by any other entity.
+
+#### Competition prizes
+
+There will be one (1) winner who will receive one (1) x NZD$50 Prezzy® card.
+
+Competition period: The competition runs from 9:00 AM 23 August 2021 until 9:00 AM 6 September 2021.
+
+#### How to enter
+
+To enter the competition, entrants must complete the  “Learning from ex-participants of Auckland club rugby” Survey 2021 (distributed by Flame Trees Limited) and supply their contact details (via the survey) during the competition period. One entry per individual.
+
+#### Who can enter the competition
+
+Entry is open to all invited survey respondents who are ex-participants in Auckland club rugby (where “Auckland club rugby” refers to the competitions and clubs that form the Auckland Rugby Union). Employees and contractors of the Auckland Rugby Union are not eligible to enter the competition.
+
+#### Notification of winners
+
+The prize winner will be notified via phone or email by 30 September 2021 (the Notification).
+
+Once notified, the winner must accept the prize within one (1) week.
+
+The winner will be selected by a random draw from all entrants who are eligible.
+
+A prize will be forfeited and Flame Trees Limited reserves the right to offer the prize to the next eligible runner-up winner if:
+
+- If a winner does not accept the prize within one (1) week of being notified by Flame Trees Limited.
+- Flame Trees Limited is unable to contact a winner within 5 working days of being notified.
+- A winner is not eligible to apply or breaches these terms and conditions.
+- A winner has already been drawn as a winner.
+
+The prize will be issued via courier to the winner to their selected postal address as confirmed by them when notified as a winner.
+
+No financial or other consideration will be awarded to any forfeiter.
+
+#### No exchanges / cash alternatives
+
+The prize must be taken as stated and cannot be exchanged or altered in any way. There will be no cash alternatives. The Prezzy® card is non-transferable and must not be resold.
+
+#### No liability
+
+Except for any liability that cannot be excluded by law, Flame Trees Limited (including its officers, employees and agents) assumes no responsibility, and excludes all liability (including negligence), for any claims, losses (including loss of opportunity), damages, costs and/or expenses, whether direct, indirect, economic, special or consequential, suffered, sustained or incurred as a result of, or arising in any way out of, or in any way connected with, this “Learning from ex-participants of Auckland club rugby” Survey 2021 Competition, or any of the Products.
+
+Flame Trees Limited will not be responsible for any damage or loss caused by the winner or to any Third party and the winner indemnifies Te Wananga o Aotearoa for any damages or the like that they have caused or may be involved with in any way.
+
+#### Use of Personal Information
+
+Personal information submitted by all entrants (including name, email address and postal address) will be collected and used for the purposes of conducting this competition, in accordance with our Privacy Policy accessible [here](https://www.flametrees.co.nz/privacy_statement.html).
+
+You may contact Flame Trees Limited by phone or email to request access to, or correction of, any of your collected personal information that is held by Flame Trees Limited. If you do not provide accurate and up-to-date personal information, Flame Trees Limited may determine that you are not eligible to win the prize.
+
+#### General
+
+To the fullest extent permitted by law, Flame Trees Limited does not provide any warranty in respect of, the quality or suitability of any Products or services provided to you by any of our suppliers.
+
+All decisions of Flame Trees Limited in relation to the “Learning from ex-participants of Auckland club rugby” Survey 2021 Competition are final and binding and no correspondence will be entered into.
+
+Flame Trees Limited may change these Terms and Conditions at any time as is necessary for reasons beyond its control, in which case participants will be notified of the changes as soon as it is practicable.
+
+Flame Trees Limited reserves the right, in its sole discretion, to cancel, terminate, withdraw, modify or suspend the Competition (or any part of the Competition, including any Products), or invalidate any entrants from the Competition (or any part of the Competition, including any Products), at any time without prior notice if necessary for reasons beyond its control.
